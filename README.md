@@ -80,7 +80,7 @@ View evaluation metrics and feature importance.
 ## 7. Project Files
 
 ```text
-Movie-Recommendation-System/
+Movie_Recommendation_System/
 ├── app.py
 ├── movie_recommendation_model (1).pkl
 ├── movies.csv
